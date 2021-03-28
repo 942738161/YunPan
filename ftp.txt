@@ -1,0 +1,3 @@
+49.232.30.223:21
+username:ftptest
+passwd:8871483
